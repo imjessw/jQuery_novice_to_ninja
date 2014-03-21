@@ -43,5 +43,10 @@ $(document).ready(function(){
 	// every even tr
 		// $('#celebs tr:even').addClass('zebra');
 	// this gives us the same results as using the .css however it removes the inline styles. 
+	// If you ever want to remove that you will use .removeClass
+		// $('#celebs tr.zebra').removeClass('zebra')
 
+
+
+	// 
 // });
