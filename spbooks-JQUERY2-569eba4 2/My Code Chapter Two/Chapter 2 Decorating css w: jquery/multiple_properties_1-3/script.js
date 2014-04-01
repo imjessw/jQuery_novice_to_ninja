@@ -47,6 +47,10 @@ $(document).ready(function(){
 		// $('#celebs tr.zebra').removeClass('zebra')
 
 
+	// ENHANCING:ADDING EFFECTS WITH JQUERY
+	// Hidingand revealing elements
+	
+	// Chapter 2/12_this/
 
 	// 
 // });
